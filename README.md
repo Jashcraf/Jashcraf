@@ -13,8 +13,9 @@ My primary research interests are in integrated physical optics modeling for hig
 - Visiting Technologist @ NASA JPL
 - Visiting Technologist @ Subaru Telescope
 - NASA JPL Summer Internship Program
-- UH IfA REU
+- UH Hilo IfA REU
 - Akamai Workforce Initiative Intern (UC Santa Cruz, UH IfA Maui)
+- University of Rochester (UR Nano, Integrated Photonic Systems Lab, Thomas Brown's lab)
 
 <!--
 **Jashcraf/Jashcraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
