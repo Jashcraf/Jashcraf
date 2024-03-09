@@ -6,9 +6,11 @@ My primary research interests are in integrated physical optics modeling for hig
 
 ## Software
 - [Poke](https://github.com/Jashcraf/poke): An open-source ray-based physical optics platform that uses ray-tracing API's (Zemax, CODE V) to democratize ray data and add more physics to the optical modeling pipeline. (_lead developer_)
+- [Katsu](https://github.com/Jashcraf/katsu): An open-source polarimetry package with support for full Stokes and Mueller polarimeters that employ rotating retarders. (_lead developer_)
 - [prysm](https://github.com/brandondube/prysm): An open-source numerical optics package by [Brandon Dube](https://github.com/brandondube/). (_contributor_)
 
 ## Places I've Worked
+- Visiting Technologist @ NASA Goddard
 - Visiting Scholar @ W.M. Keck Observatory
 - Visiting Technologist @ NASA JPL
 - Visiting Technologist @ Subaru Telescope
