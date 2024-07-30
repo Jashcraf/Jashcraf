@@ -1,6 +1,6 @@
 # Aloha kākou, I'm Jaren
 
-I'm a Ph.D. Candidate in Optical Sciences and NASA Space Technology Graduate Research Opportunity (NSTGRO) recipient at the University of Arizona working with [Dr. Ewan Douglas](https://github.com/douglase), Dr. Daewook Kim, and [Dr. A.J. Riggs](https://github.com/ajeldorado).
+I'm a NASA Hubble Fellow at UC Santa Barbara working in [Dr. Max Millar-Blanchaer's](https://github.com/maxwellmb) lab studying polarization and high-contrast imaging. I got my Ph.D. in Optical Sciences at the University of Arizona working with [Dr. Ewan Douglas](https://github.com/douglase), Dr. Daewook Kim, and [Dr. A.J. Riggs](https://github.com/ajeldorado) on a NSTGRO Fellowship.
 
 My primary research interests are in integrated physical optics modeling for high-contrast imaging, with a particular emphasis on linking ray traces with wave propagation, and polarization. 
 
@@ -9,7 +9,7 @@ My primary research interests are in integrated physical optics modeling for hig
 - [Katsu](https://github.com/Jashcraf/katsu): An open-source polarimetry package with support for full Stokes and Mueller polarimeters that employ rotating retarders. (_lead developer_)
 - [prysm](https://github.com/brandondube/prysm): An open-source numerical optics package by [Brandon Dube](https://github.com/brandondube/). (_contributor_)
 
-## Places I've Worked
+## Places I've Worked Before
 - Visiting Technologist @ NASA Goddard
 - Visiting Scholar @ W.M. Keck Observatory
 - Visiting Technologist @ NASA JPL
