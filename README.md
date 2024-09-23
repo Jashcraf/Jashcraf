@@ -1,6 +1,6 @@
 # Aloha kākou, I'm Jaren
 
-I'm a NASA Hubble Fellow at UC Santa Barbara working in [Dr. Max Millar-Blanchaer's](https://github.com/maxwellmb) lab studying polarization and high-contrast imaging. I got my Ph.D. in Optical Sciences at the University of Arizona working with [Dr. Ewan Douglas](https://github.com/douglase), Dr. Daewook Kim, and [Dr. A.J. Riggs](https://github.com/ajeldorado) on a NSTGRO Fellowship.
+I'm a NASA Hubble Fellow at UC Santa Barbara working in [Dr. Max Millar-Blanchaer's](https://github.com/maxwellmb) [Exopol Lab](https://github.com/UCSB-Exoplanet-Polarimetry-Lab) studying polarization and high-contrast imaging. I got my Ph.D. in Optical Sciences at the University of Arizona working with [Dr. Ewan Douglas](https://github.com/douglase), Dr. Daewook Kim, and [Dr. A.J. Riggs](https://github.com/ajeldorado) on a NSTGRO Fellowship.
 
 My primary research interests are in integrated physical optics modeling for high-contrast imaging, with a particular emphasis on linking ray traces with wave propagation, and polarization. 
 
