@@ -1,8 +1,6 @@
 # Aloha kākou, I'm Jaren
 
-I'm a NASA Hubble Fellow at UC Santa Barbara working in [Dr. Max Millar-Blanchaer's](https://github.com/maxwellmb) [Exopol Lab](https://github.com/UCSB-Exoplanet-Polarimetry-Lab) studying polarization and high-contrast imaging. I got my Ph.D. in Optical Sciences at the University of Arizona working with [Dr. Ewan Douglas](https://github.com/douglase), Dr. Daewook Kim, and [Dr. A.J. Riggs](https://github.com/ajeldorado) on a NSTGRO Fellowship.
-
-My primary research interests are in integrated physical optics modeling for high-contrast imaging, with a particular emphasis on linking ray traces with wave propagation, and polarization. 
+I'm an Optical Engineer III at NASA's Jet Propulsion Laboratory working on integrated modeling for the Habitable Worlds Observatory. I was a NASA Hubble Fellow at UCSB working with Max Millar-Blanchaer, and received my Ph.D. and M.S. in Optical Sciences with Ewan Douglas at the University of Arizona.
 
 ## Software
 - [Poke](https://github.com/Jashcraf/poke): An open-source ray-based physical optics platform that uses ray-tracing API's (Zemax, CODE V) to democratize ray data and add more physics to the optical modeling pipeline. (_lead developer_)
@@ -10,14 +8,19 @@ My primary research interests are in integrated physical optics modeling for hig
 - [prysm](https://github.com/brandondube/prysm): An open-source numerical optics package by [Brandon Dube](https://github.com/brandondube/). (_contributor_)
 
 ## Places I've Worked Before
-- Visiting Technologist @ NASA Goddard
-- Visiting Scholar @ W.M. Keck Observatory
-- Visiting Technologist @ NASA JPL
-- Visiting Technologist @ Subaru Telescope
-- NASA JPL Summer Internship Program
-- UH Hilo IfA REU
-- Akamai Workforce Initiative Intern (UC Santa Cruz, UH IfA Maui)
-- University of Rochester (UR Nano, Integrated Photonic Systems Lab, Thomas Brown's lab)
+- NHFP Sagan Fellow @ UC Santa Barbara
+- University of Arizona (UA Space Astrophysics Lab, LOFT)
+  - Visiting Technologist @ NASA Goddard
+  - Visiting Scholar @ W.M. Keck Observatory
+  - Visiting Technologist @ NASA JPL
+  - Visiting Technologist @ Subaru Telescope   
+  - NASA JPL Summer Internship Program
+- University of Rochester
+  - UH Hilo IfA REU
+  - Akamai Workforce Initiative Intern (UC Santa Cruz, UH IfA Maui)
+  - UR Nano
+  - Integrated Photonic Systems Lab
+  - Thomas Brown's lab
 
 <!--
 **Jashcraf/Jashcraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
